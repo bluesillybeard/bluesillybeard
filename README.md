@@ -30,7 +30,7 @@ As for projects I have started or completed, that list would be longer than anyb
 
 Programming:
   -Minecraft mod manager (100% completed, Python, terminal);
-  -A utility that renders something based on a distance value supplied by a function: (30% complete, JavaFX (I'm gonna switch to LWJGL sometime soon);
+  -A utility that renders something based on a distance value: (30% complete, JavaFX (I'm gonna switch to LWJGL sometime soon);
   -Voxelesque, A Minecraft parody that replaces the squares with triangles. The cubes are now rectangular prisms (5% complete, LWJGL/OpenGL);
 
 other:
@@ -40,10 +40,9 @@ other:
   -an 8-bit computer built in Minecraft (60%);
 
 not started:
-  -creating a TI-89 clone;
   -A silly game about someone who needs to go to the bathroom;
+  -Celestial, a space game inspired by Starbound.
   -installing an ethernet plug in my room;
-  -custom keyboard;
   -and about 500 million more that I haven't listed.
 
 Yes, those are semicolons. I still can't figure out how to make a single line break in this thing.
