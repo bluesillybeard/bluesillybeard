@@ -1,4 +1,4 @@
-I am Bluesillybeard. I am a (student) Java programmer who is also somewhat familiar with Python, C#, and C++.
+I am Bluesillybeard. I am a C# (Recently moved from Java) programmer who is also somewhat familiar with Python and C++.
 
 
 
@@ -18,23 +18,24 @@ During the Python unit of the class, march of 2020 happened and ruined everythin
 
 
 
-After the sumer of 2020 during my 10th grade year, I got into an intermediate (college level) Java programming class where I learned object-oriented programming, as well as several other items such as Arrays, Switch statements (well, I learned that on my own), etc. I have a great many projects I want to create using Java, as you'll see later.
+After the sumer of 2020 during my 10th grade year, I got into an intermediate (college level) Java programming class where I learned object-oriented programming, as well as several other items such as Arrays, Switch statements (well, I learned that on my own), etc. 
 
 
 
-During my 10th grade year, I messed around with C# and Unity, which didn't get very far (I literally couldn't figure out movement at all). Much later in the year, I started messing with C++, and learned that it is a very matured language. I would probably prefer it to Java, but VSCode isn't smart enough to update CMakeLists, so literally every single new file I add I have to add it to that. (that's actually why I perfer Java).
+During my 10th grade year, I messed around with C# and Unity, which didn't get very far (I literally couldn't figure out movement at all). Much later in the year, I started messing with C++, and learned that it is a very matured language. I would probably prefer it to Java, but VSCode isn't smart enough to update CMakeLists, so literally every single new file I add I have to add it to that. (that's actually why I perfer C#/Java).
+
+In 2021-2022 I was getting sick of Java's terrible generics and the rediculously slow nature of Intellij IDEA, so in january 2021 I decided to completely switch to using C# as my bread and butter. That means converting many of my ongoing projects to C# from Java, which is definitely going to take a while.
 
 
 
 I am working with:
--LightWeight Java Game Library (LWJGL)
--OpenGL(the LWJGL Binding)
--JavaFX and Swing(They aren't preffereable though)
+-OpenTK (OpenGL and Vulcan bindings for C#)
 -Fabric and Forge (Minecraft Modding Platforms)
+-Raylib (graphics library)
 
 
 
-I use Intellij IDEA for basically everything Java, VSCode for smaller Python projects
+I use Intellij IDEA for everything in Java, and VSCode for everything else.
 
 
 
@@ -50,11 +51,11 @@ Programming:
 
 -Minecraft mod manager (100% completed, Python terminal)
 
--A utility that renders something based on a distance value: (30% complete, JavaFX (I'm gonna switch to LWJGL sometime soon)
+-A utility that renders something based on a distance value: (30% complete, its basically abandoned)
 
--Voxelesque, A Minecraft parody that replaces the squares with triangles. The cubes are now rectangular prisms (10% "complete", Java, LWJGL/OpenGL)
+-Voxelesque, A Minecraft parody that replaces the squares with triangles. The cubes are now rectangular prisms (10% "complete", OpenTK/C#)
 
-
+-Celestial, a space game inspired by Starbound. (hardly started, Raylib. NET/C#)
 
 other:
 
@@ -68,10 +69,4 @@ other:
 
 not started:
 
--A silly game about someone who needs to go to the bathroom;
-
--Celestial, a space game inspired by Starbound.
-
--installing an ethernet plug in my room;
-
--and about 500 million more that I haven't listed.
+-about 500 million.
