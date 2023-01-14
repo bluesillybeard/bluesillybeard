@@ -30,15 +30,10 @@ In 2021-2022 I was getting sick of Java's terrible generics and the rediculously
 
 
 I am familiar with:<br>
--OpenTK (OpenGL and Vulcan bindings for C#)<br>
+-OpenTK (OpenGL bindings for C#)<br>
 -Fabric and Forge (Minecraft Modding Platforms)<br>
 -Raylib (graphics library)<br>
 -Godot (games and stuff)<br>
-
-
-I prefer not to use:<br>
--Javascript (I would rather do it using C and emscripten if possible)<br>
--<br>
 
 
 I use Intellij IDEA for everything in Java, and VSCode for everything else.
@@ -55,15 +50,13 @@ As for projects I have started or completed, that list would be longer than anyb
 
 Active:<br>
 -Voxelesque, A Minecraft parody that replaces the squares with triangles. The cubes are now rectangular prisms (10% "complete", OpenTK/C#)<br>
--A game where you make a story (Raylib, C using Emscripten to make web builds)<br>
--an 8-bit microcomputer that would have released somwhere about 1985 (2%)<br>
+-an 8-bit microcomputer that would have released somwhere about 1985 (5%)<br>
+-Youtube channel(s) (IHonestlyHaveNoIdea%)<br>
 
 
 Back-burner/on hold:<br>
--Youtube channel(s) (IHonestlyHaveNoIdea%)<br>
 -A utility that renders something based on a distance value: (30% complete, its basically abandoned)<br>
--Celestial, a space game inspired by Starbound. (hardly started, Raylib. NET/C#, might use C)<br>
--an 8-bit computer built in Minecraft (60%)<br>
+-Celestial, a space game inspired by Starbound. (hardly started)<br>
 
 
 not started:<br>
