@@ -29,7 +29,7 @@ Languages I want to learn / get better at are:
 - Rust (it's a neat language, although it's quite complex)
 - Assembly (to achieve ultimate chad status)
 - Lua (extremely popular scripting language
-- APL (so I can torchure my brain)
+- APL (so I can obliterate my brain)
 
 Frameworks I know well are:
 - VRender (I'm the guy who built it so yeah)
