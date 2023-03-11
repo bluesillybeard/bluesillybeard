@@ -1,10 +1,10 @@
 Hi. I'm some guy on the internet.
 
 LINKS:
-[youtube "main" channel](https://www.youtube.com/channel/UC8rG7eIxH-Y0B0Jca0b_98Q)
-[youtube secondary channel](https://www.youtube.com/@bluebeard5447)
-[planetMinecraft](https://www.planetminecraft.com/member/bluesillybeard/)
-[curseforge](https://www.curseforge.com/members/bluesillybeard/projects)
+- [youtube "main" channel](https://www.youtube.com/channel/UC8rG7eIxH-Y0B0Jca0b_98Q)
+- [youtube secondary channel](https://www.youtube.com/@bluebeard5447)
+- [planetMinecraft](https://www.planetminecraft.com/member/bluesillybeard/)
+- [curseforge](https://www.curseforge.com/members/bluesillybeard/projects)
 
 Languages I know well are:
 - C#
