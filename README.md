@@ -5,7 +5,7 @@ LINKS:
 - [youtube secondary channel](https://www.youtube.com/@bluebeard5447)
 - [planetMinecraft](https://www.planetminecraft.com/member/bluesillybeard/)
 - [curseforge](https://www.curseforge.com/members/bluesillybeard/projects)
-- [LinkedIn](www.linkedin.com/in/hayden-rasmussen-06125b287)
+- [LinkedIn](https://www.linkedin.com/in/hayden-rasmussen-06125b287)
 
 Languages I know well are:
 - C#
